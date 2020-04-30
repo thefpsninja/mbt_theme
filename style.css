@@ -1,0 +1,21 @@
+/*
+Theme Name: My Basic Theme
+Theme URI:
+Author: Sylvester Black
+Author URI: 
+Description: This is a fine description.
+Version: 1.0
+License: GNU General Public License v2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+Text Domain: my-basic-theme
+Tags:
+Use it to make something cool, have fun, and share what you've learned with others.
+*/
+
+/* Adds Font From Google Fonts */
+@import url('https://fonts.googleapis.com/css2?family=Walter+Turncoat&display=swap');
+
+body {
+    background-color: rgb(231, 237, 245);
+}
+
