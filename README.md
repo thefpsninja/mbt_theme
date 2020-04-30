@@ -7,6 +7,7 @@ Mostly posting this on github as a portfolio.
 
 
 -- "This might be missing alot since i did not start version management untill first git push" --
+
 Current features: 
 
 
